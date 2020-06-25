@@ -1,8 +1,6 @@
 print('hello world')
 
 for i in range(1, 10):
-    print('*'*i)
-    
     print('dfdakf')
+    print('123')
     
-    print('haadfhgfdfd:wq')
